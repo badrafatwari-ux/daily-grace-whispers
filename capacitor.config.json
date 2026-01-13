@@ -1,0 +1,12 @@
+{
+  "appId": "app.lovable.c788554db50e49a9b235840331802efb",
+  "appName": "Daily Christian Verse & Reflection",
+  "webDir": "dist",
+  "server": {
+    "url": "https://c788554d-b50e-49a9-b235-840331802efb.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
