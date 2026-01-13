@@ -1,5 +1,5 @@
 {
-  "appId": "app.lovable.c788554db50e49a9b235840331802efb",
+  "appId": "app.dailyverse.christian",
   "appName": "Daily Christian Verse & Reflection",
   "webDir": "dist",
   "server": {
@@ -7,6 +7,19 @@
     "cleartext": true
   },
   "android": {
-    "allowMixedContent": true
+    "allowMixedContent": true,
+    "backgroundColor": "#faf6f1"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#faf6f1",
+      "showSpinner": false,
+      "androidScaleType": "CENTER_CROP"
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#faf6f1"
+    }
   }
 }
